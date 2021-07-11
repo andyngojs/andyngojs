@@ -1,6 +1,6 @@
 ### Hi Guys 👋 
 
-## I'm andyngojs - A.D Dong Ngo - FullStack Developer
+## I'm A.D Dong Ngo - FullStack Developer
 
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
@@ -29,6 +29,7 @@
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
 <br>
+<br>
 
 ---
 
@@ -44,5 +45,5 @@
 
 ---
 
-[![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
 
