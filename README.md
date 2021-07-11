@@ -1,13 +1,11 @@
 ### Hi Guys 👋 
 
+## I'm andyngojs - A.D Dong Ngo - FullStack Developer
+
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
 - 📫 How to reach me: [Facebook](http://fb.com/100055545081553)
 - ⚡ Fun fact: I share... a lot!
-
-### Spotify Playing 🎧
-
-<iframe width="360" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1030060855&color=%23267aea&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ---
 
