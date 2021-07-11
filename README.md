@@ -31,7 +31,6 @@
 ---
 
 ### :bar_chart: This Week I Spent My Time On
-```text
 
 :page_facing_up: Programming Language
 
@@ -41,7 +40,6 @@
 
 [![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
-```
 ---
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
