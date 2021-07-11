@@ -39,7 +39,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,scss)](https://github.com/andyngojs)
 
-🔥 **Proramming**
+🔥 **Programming**
 
 [![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
