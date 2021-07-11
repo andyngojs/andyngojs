@@ -1,6 +1,4 @@
-### Hi Guys 👋 
-
-## I'm a Software Engineer!
+### Hi Guys 👋
 
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
