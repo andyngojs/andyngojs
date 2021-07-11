@@ -1,6 +1,6 @@
 ### Hi Guys 👋 
 
-## **I'm A.D Dong Ngo - FullStack Developer**
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
@@ -9,7 +9,7 @@
 
 ---
 
-### Tools
+### Tools:
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/visualstudiocode.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/webstorm.svg" />
@@ -18,7 +18,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
 <br>
 
-### Languages and Frameworks
+### Languages and Frameworks:
 
 <img align="left" alt="HTML5" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/css3.svg" />
@@ -42,6 +42,8 @@
 🔥 **Programming**
 
 [![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
+
+<br>
 
 ---
 
