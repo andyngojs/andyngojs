@@ -32,6 +32,11 @@
 
 ### :bar_chart: This Week I Spent My Time On
 
+:page_facing_up: Programming Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs)](https://github.com/andyngojs)
+
+
 [![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
 ---
