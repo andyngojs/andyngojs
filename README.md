@@ -32,7 +32,7 @@
 
 ### :bar_chart: This Week I Spent My Time On
 
-[![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs)](https://github.com/anuraghazra/github-readme-stats)
+[![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
