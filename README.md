@@ -32,11 +32,9 @@
 
 ### :bar_chart: This Week I Spent My Time On
 
-    :page_facing_up: Programming Language
+:page_facing_up: Programming Language [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
-
-    🔥 Proramming 
+🔥 Proramming 
 
 [![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
