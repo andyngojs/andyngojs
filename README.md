@@ -1,4 +1,4 @@
-### Hi Guys 👋
+### Hi Guys 👋 
 
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
@@ -32,9 +32,9 @@
 
 ### :bar_chart: This Week I Spent My Time On
 
-[![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
-
+---
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
