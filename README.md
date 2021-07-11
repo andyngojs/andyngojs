@@ -5,6 +5,10 @@
 - 📫 How to reach me: [Facebook](http://fb.com/100055545081553)
 - ⚡ Fun fact: I share... a lot!
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e)
+
 ---
 
 ### Tools
@@ -32,11 +36,11 @@
 
 ### :bar_chart: This Week I Spent My Time On
 
-:page_facing_up: Programming Language
+:page_facing_up: **Programming Language**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,scss)](https://github.com/andyngojs)
 
-🔥 Proramming 
+🔥 **Proramming**
 
 [![andyngojs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andyngojs&hide_title=true)](https://github.com/andyngojs)
 
