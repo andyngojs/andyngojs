@@ -30,5 +30,5 @@
 
 ---
 
-[![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs)](https://github.com/anuraghazra/github-readme-stats)
+[![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
