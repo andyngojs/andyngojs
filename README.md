@@ -1,4 +1,7 @@
-### Hi Guys 👋
+### Hi There 👋
+
+[![dino](https://user-images.githubusercontent.com/70431419/125493070-0fcfef84-0561-45bf-8742-4c58acb2b38b.gif)](https://fb.com/nbadong)
+
 
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
