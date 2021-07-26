@@ -7,7 +7,9 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://andyngojs.vercel.app/api/spotify)(https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e)
+<a href='https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e'>
+    <img src='https://andyngojs.vercel.app/api/spotify' alt='AndyngoJs Spotify Playing' width='350' style='max-width: 100%' />
+</a>
 
 ---
 
