@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://andyngojs.vercel.app/api/spotify)](https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e)
+![Spotify](https://andyngojs.vercel.app/api/spotify)(https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e)
 
 ---
 
