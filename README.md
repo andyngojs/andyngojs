@@ -19,7 +19,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/webstorm.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/intellijidea.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postman.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
+<br>
 <br>
 
 ### Languages and Frameworks:
@@ -29,7 +29,7 @@
 <img align="left" alt="Javascript" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/javascript.svg" />
 <img align="left" alt="Java" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/java.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/react.svg" />
-<img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
+<img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/node-dot-js.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
 <br>
