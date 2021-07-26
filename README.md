@@ -1,8 +1,5 @@
 ### Hi There 👋
 
-[![dino](https://user-images.githubusercontent.com/70431419/125493070-0fcfef84-0561-45bf-8742-4c58acb2b38b.gif)](https://fb.com/nbadong)
-
-
 - 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
 - 💬 Ask me about every thing I learned 🤣
 - 📫 How to reach me: [Facebook](http://fb.com/100055545081553)
@@ -26,7 +23,7 @@
 <img align="left" alt="Javascript" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/javascript.svg" />
 <img align="left" alt="Java" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/java.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/react.svg" />
-<img align='left' width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
 <br>
@@ -49,4 +46,3 @@
 ---
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
-
