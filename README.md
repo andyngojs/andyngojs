@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-- 🔭 I’m currently working on [AD Dong Ngo](http://nbdong.web.app)
+- 🔭 I’m currently working on [AD Dong Ngo](https://dongnba.web.app)
 - 💬 Ask me about every thing I learned 🤣
 - 📫 How to reach me: [Facebook](http://fb.com/100055545081553)
 - ⚡ Fun fact: I share... a lot!
@@ -32,6 +32,7 @@
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/node-dot-js.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
+<br>
 <br>
 <br>
 
