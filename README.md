@@ -22,7 +22,7 @@
 <br>
 <br>
 
-### Languages and Frameworks:
+### Programming Languages and Frameworks:
 
 <img align="left" alt="HTML5" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/css3.svg" />
@@ -30,9 +30,12 @@
 <img align="left" alt="Java" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/java.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/react.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/node-dot-js.svg" />
+<br>
+<br>
+
+### Databases:
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
 <img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
-<br>
 <br>
 <br>
 
