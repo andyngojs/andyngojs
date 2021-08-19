@@ -45,9 +45,6 @@
 
 :page_facing_up: **Programming Language**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=false&hide=less,scss)](https://github.com/andyngojs)
-<br>
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,scss)](https://github.com/andyngojs)
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
