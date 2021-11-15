@@ -1,7 +1,7 @@
 ## Hi There 👋
 
-- 🔭 I’m currently working on [AD Dong Ngo](https://dongnba.web.app)
-- 💬 Ask me about every thing I learned 🤣
+- 🔭 I’m currently working on [Dong Ngo](https://dongnba.web.app)
+- 💬 Ask me about everything I learned 🤣
 - 📫 How to reach me: [Facebook](http://fb.com/100055545081553)
 - ⚡ Fun fact: I share... a lot!
 
