@@ -33,18 +33,14 @@
 <br>
 <br>
 
-### Databases:
-
-<img align='left' width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mongodb.svg" />
-<br>
-<br>
-
 ---
 
 ### :bar_chart: This Week I Spent My Time On
 
 :page_facing_up: **Programming Language**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,scss)](https://github.com/andyngojs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,perl,assembly)](https://github.com/andyngojs)
+
+---
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
