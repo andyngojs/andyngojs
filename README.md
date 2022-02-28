@@ -37,54 +37,6 @@
 
 ![](https://komarev.com/ghpvc/?username=andyngojs&color=blue&style=for-the-badge)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2021%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
-🌆 Daytime    166 commits    ██████████░░░░░░░░░░░░░░░   39.52% 
-🌃 Evening    129 commits    ███████░░░░░░░░░░░░░░░░░░   30.71% 
-🌙 Night      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.62%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-Wednesday    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Thursday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
-Sunday       97 commits     █████░░░░░░░░░░░░░░░░░░░░   23.1%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               47 mins             █████████████████████░░░░   84.13% 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 28/02/2022 16:53:46 UTC
-<!--END_SECTION:waka-->
-
-:page_facing_up: **Programming Language**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,perl,assembly)](https://github.com/andyngojs)
-
 ---
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
