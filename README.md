@@ -95,8 +95,6 @@ VS Code                  56 mins             ███████████�
  Last Updated on 28/02/2022 16:31:13 UTC
 <!--END_SECTION:waka-->
 
-### :bar_chart: This Week I Spent My Time On
-
 :page_facing_up: **Programming Language**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&hide_title=true&hide=less,perl,assembly)](https://github.com/andyngojs)
