@@ -37,6 +37,4 @@
 
 ![](https://komarev.com/ghpvc/?username=andyngojs&color=blue&style=for-the-badge)
 
----
-
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
