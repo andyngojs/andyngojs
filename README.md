@@ -1,5 +1,5 @@
 ## Hello! 
-I am [AndyngoJs](https://www.facebook.com/dn279). I'm a React Native developer from Vietnam, based in Hanoi
+I am AndyngoJs. I'm a React Native developer from Vietnam, based in Hanoi
 
 ### Spotify Playing 🎧
 <a href='https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e'>
