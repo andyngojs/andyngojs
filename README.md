@@ -1,5 +1,8 @@
-## Hello! 
-I am AndyngoJs. I'm a React Native developer from Vietnam, based in Hanoi
+## Hi, I'm AndyNgoJs
+
+![](https://komarev.com/ghpvc/?username=andyngojs&color=blue&style=for-the-badge)
+
+I'm a React Native developer from Vietnam, based in Hanoi.
 
 ### Spotify Playing 🎧
 <a href='https://open.spotify.com/user/317hwydurunlmbushkn5jnpetc6e'>
@@ -7,6 +10,5 @@ I am AndyngoJs. I'm a React Native developer from Vietnam, based in Hanoi
 </a>
 
 ---
-![](https://komarev.com/ghpvc/?username=andyngojs&color=blue&style=for-the-badge)
 
 [![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true)](https://github.com/andyngojs)
