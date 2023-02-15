@@ -1,6 +1,6 @@
 ## Hi, I'm AndyNgoJs
 
-![](https://komarev.com/ghpvc/?username=andyngojs&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=andyngojs&color=blue&style=flat)
 
 I'm a React Native developer from Vietnam, based in Hanoi.
 
