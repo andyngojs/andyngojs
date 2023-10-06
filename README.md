@@ -2,7 +2,11 @@
 
 <!-- [![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs) -->
 
+<span>
 
+</span>
+
+<!--
 ### Technologies and Tools
 ![Javascript Logo](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&style=flat)
 ![Typescript Logo](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6&style=flat)
@@ -17,10 +21,15 @@
 ![Git logo](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032&style=flat)
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC&style=flat)
 ![Firebase logo](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28&style=flat)
+-->
 
-### Github Stats
-![Top languages most used](https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&layout=compact&show_icons=true&langs_count=8&hide_border=true&hide=less,powershell,Ruby,Objective-C,Objective-C%2b%2b,Starlark)
-[![AndyNgoJs's GitHub stats](https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true&hide_border=true)](https://github.com/andyngojs)
-
-
+### 🔥 GitHub Stats 🔥
+<div align="center">
+    <a href="#" title="Andyngojs">
+        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&layout=compact&show_icons=true&langs_count=8&hide_border=true&hide=less,powershell,Ruby,Objective-C,Objective-C%2b%2b,Starlark" />
+    </a>
+    <a href="#" title="Andyngojs">
+        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true&hide_border=true" />
+    </a>
+</div>
 
