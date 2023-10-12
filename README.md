@@ -4,8 +4,8 @@
 
 I'm a React Native developer from Vietnam, based in Hanoi.
 
-- 🔭 I’m currently working at <a href="https://c2c-techhub.io/">C2C TechHub</a>
-- ❤️ I love writing code and learn anythings about it
+- 🔭 I’m currently working at <a href="#">DOBEETEAM</a>
+- ❤️ I love writing code and learning anything about it
 - 📫 How to reach me: [Facebook](https://fb.com/)
 
 <!--
