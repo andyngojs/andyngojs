@@ -1,10 +1,12 @@
 ### Hi 👋, I'm Dong Ngo
 
-<!-- [![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs) -->
+[![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs)
 
-<span>
+I'm a React Native developer from Vietnam, based in Hanoi.
 
-</span>
+- 🔭 I’m currently working at <a href="https://c2c-techhub.io/">C2C TechHub</a>
+- ❤️ I love writing code and learn anythings about it
+- 📫 How to reach me: [Facebook](https://fb.com/)
 
 <!--
 ### Technologies and Tools
@@ -23,7 +25,7 @@
 ![Firebase logo](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28&style=flat)
 -->
 
-### 🔥 GitHub Stats 🔥
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 <div align="center">
     <a href="#" title="Andyngojs">
         <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&layout=compact&show_icons=true&langs_count=8&hide_border=true&hide=less,powershell,Ruby,Objective-C,Objective-C%2b%2b,Starlark" />
