@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Dong Ngo
-
+<!--
 [![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs)
 
 I'm a React Native developer from Vietnam, based in Hanoi.
 
-<!-- - 🔭 I’m currently working at <a href="https://github.com/dobeeteam">DOBEETEAM</a> -->
+ - 🔭 I’m currently working at <a href="https://github.com/dobeeteam">DOBEETEAM</a>
 - ❤️ I love writing code and learning anything about it
 - 📫 How to reach me: [Facebook](https://fb.com/)
-
+ -->
 <!--
 ### Technologies and Tools
 ![Javascript Logo](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&style=flat)
@@ -24,7 +24,7 @@ I'm a React Native developer from Vietnam, based in Hanoi.
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC&style=flat)
 ![Firebase logo](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28&style=flat)
 -->
-
+<!--
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <div align="center">
     <a href="#" title="Andyngojs">
@@ -34,4 +34,4 @@ I'm a React Native developer from Vietnam, based in Hanoi.
         <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true&hide_border=true" />
     </a>
 </div>
-
+-->
