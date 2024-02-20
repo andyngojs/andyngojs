@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dong Ngo (AndyngoJs)
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dong Ngo (AndyngoJs)
 
 [![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs)
 
@@ -19,11 +19,10 @@ I'm a Mobile Developer specializing in React Native and sometimes also developin
 ![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
 ![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28&style=flat)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2f3139)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
 
 ## 📈 Github Stats
 <a href="https://github.com/andyngojs" title="Andyngojs">
     <img src="https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true&hide_border=true" alt="AndyngoJs's Github stats" />
 </a>
-
