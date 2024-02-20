@@ -1,37 +1,29 @@
-### Hi 👋, I'm Dong Ngo
-<!--
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dong Ngo (AndyngoJs)
+
 [![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs)
 
-I'm a React Native developer from Vietnam, based in Hanoi.
+I'm a Mobile Developer specializing in React Native and sometimes also developing web apps. I like creating apps that make a difference and am always eager to embrace new challenges in mobile development.
 
- - 🔭 I’m currently working at <a href="https://github.com/dobeeteam">DOBEETEAM</a>
-- ❤️ I love writing code and learning anything about it
-- 📫 How to reach me: [Facebook](https://fb.com/)
- -->
-<!--
-### Technologies and Tools
-![Javascript Logo](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&style=flat)
-![Typescript Logo](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6&style=flat)
-![React Logo](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB&style=flat)
-![Redux logo](https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC&style=flat)
-![Nodejs logo](https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200&style=flat)
-![Express logo](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF&style=flat)
-![MongoDB logo](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248&style=flat)
-![HTML logo](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26&style=flat)
-![CSS logo](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6&style=flat)
-![SASS logo](https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699&style=flat)
-![Git logo](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032&style=flat)
-![VSCode logo](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC&style=flat)
-![Firebase logo](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28&style=flat)
--->
-<!--
-<h3 align="center">🔥 GitHub Stats 🔥</h3>
-<div align="center">
-    <a href="#" title="Andyngojs">
-        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyngojs&layout=compact&show_icons=true&langs_count=8&hide_border=true&hide=less,powershell,Ruby,Objective-C,Objective-C%2b%2b,Starlark" />
-    </a>
-    <a href="#" title="Andyngojs">
-        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true&hide_border=true" />
-    </a>
-</div>
--->
+## 🛠️ Skills & Expertise
+### Programming languages
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
+
+### Frameworks
+![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
+![Express](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF&style=flat)
+
+### Tools
+![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
+![Android Studio](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
+![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
+![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28&style=flat)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=2f3139)
+
+## 📈 Github Stats
+<a href="https://github.com/andyngojs" title="Andyngojs">
+    <img src="https://github-readme-stats.vercel.app/api?username=andyngojs&show_icons=true&hide_border=true" alt="AndyngoJs's Github stats" />
+</a>
+
