@@ -11,7 +11,6 @@ I'm a Mobile Developer specializing in React Native and sometimes also developin
 
 ### Frameworks
 ![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
-![Express](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF&style=flat)
 
 ### Tools
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
