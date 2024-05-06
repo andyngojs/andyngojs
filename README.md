@@ -2,7 +2,7 @@
 
 [![Viewer](https://komarev.com/ghpvc/?username=andyngojs&color=1A8FE3&style=flat)](https://github.com/andyngojs)
 
-I'm a Mobile Developer specializing in React Native and sometimes also developing web apps. I like creating apps that make a difference and am always eager to embrace new challenges in mobile development.
+I'm a FrontEnd Developer specializing in React, I develop FrontEnd web apps with Javascript frontend frameworks such as NextJs,.. and also develop mobile apps cross-platform React Native. I like creating apps that make a difference and am always eager to embrace new challenges in software development.
 
 ## 🛠️ Skills & Expertise
 ### Programming languages
