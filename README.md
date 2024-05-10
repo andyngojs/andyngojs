@@ -10,8 +10,8 @@ I'm a FrontEnd Developer specializing in React, I develop FrontEnd web apps with
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
 
 ### Frameworks
-![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
 ![NextJs](https://img.shields.io/badge/NextJs-informational?logo=nextdotjs&logoColor=fff&style=flat)
+![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
 
 ### Tools
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
