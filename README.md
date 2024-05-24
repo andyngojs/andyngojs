@@ -6,8 +6,9 @@ I'm a FrontEnd Developer specializing in React, I develop FrontEnd web apps with
 
 ## 🛠️ Skills & Expertise
 ### Programming languages
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
+![Cpp](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=fff&color=00599C)
+![Javascript](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000&color=F7DF1E)
+![Typescript](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=fff&color=3178C6)
 
 ### Frameworks
 ![NextJs](https://img.shields.io/badge/NextJs-informational?logo=nextdotjs&logoColor=fff&style=flat)
@@ -18,8 +19,8 @@ I'm a FrontEnd Developer specializing in React, I develop FrontEnd web apps with
 ![Webstorm logo](https://img.shields.io/badge/Webstorm-informational?logo=webstorm&logoColor=white&style=flat)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
 ![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
-![Git](https://img.shields.io/badge/git-informational?logo=Git&logoColor=F05032&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-informational?logo=firebase&logoColor=FFCA28&style=flat)
+![Git](https://img.shields.io/badge/git-informational?logo=Git&logoColor=F05032&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=011e36&color=31a8ff)
 
