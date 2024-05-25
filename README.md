@@ -4,7 +4,6 @@ I'm a FrontEnd Developer specializing in React, I develop FrontEnd web apps with
 
 ## 🛠️ Skills & Expertise
 ### Programming languages
-![Cpp](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=fff&color=00599C)
 ![Javascript](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000&color=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=fff&color=3178C6)
 
