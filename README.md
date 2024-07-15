@@ -11,8 +11,6 @@ I'm a FrontEnd Developer specializing in React, I develop FrontEnd web apps with
 ![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
 ![NextJs](https://img.shields.io/badge/NextJs-informational?logo=nextdotjs&logoColor=fff&style=flat)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-informational?logo=mongodb&logoColor=fff&style=flat)
-
 ### Tools
 ![Git](https://img.shields.io/badge/git-informational?logo=Git&logoColor=F05032&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-informational?logo=firebase&logoColor=FFCA28&style=flat)
